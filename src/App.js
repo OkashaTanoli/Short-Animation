@@ -30,7 +30,7 @@ function App() {
 			<div className='appContainer'>
 				<div className='text'>
 					<h1 className='textHead'>Project 4b is completed using <span className='properNoun'>reactJS</span>, <span className='properNoun'>framerMotion</span> and <span className='properNoun'>useWebAnimation</span> </h1>
-					<a href='https://github.com/OkashaTanoli/Tiny-Animation' rel="noreferrer" style={{ textDecoration: 'none' }} target='_blank'><button ref={ref} className='githubBtn'>View On Github<img src={Github} style={{ marginLeft: '10px' }} width='50px' alt='img' /></button></a>
+					<a href='https://github.com/OkashaTanoli/Short-Animation' rel="noreferrer" style={{ textDecoration: 'none' }} target='_blank'><button ref={ref} className='githubBtn'>View On Github<img src={Github} style={{ marginLeft: '10px' }} width='50px' alt='img' /></button></a>
 				</div>
 				<div>
 					<Illustration />
